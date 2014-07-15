@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="maxcdn_dotnet_csharp_raw_logs.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_alias" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ALIAS</Value>
+    </Setting>
+    <Setting Name="_consumer_key" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">KEY</Value>
+    </Setting>
+    <Setting Name="_consumer_secret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SECRET</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
